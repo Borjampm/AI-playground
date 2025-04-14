@@ -2,7 +2,7 @@
 .env
 
 # Virtual environment
-ai-playground/
+.venv/
 
 # Other Python cache/build files (optional but recommended)
 __pycache__/
