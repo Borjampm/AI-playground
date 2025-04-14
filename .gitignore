@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Virtual environment
+ai-playground/
+
+# Other Python cache/build files (optional but recommended)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
